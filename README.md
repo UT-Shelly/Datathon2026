@@ -24,10 +24,10 @@ jupyter notebook personal_finance_analysis.ipynb
 
 ## Dependencies
 - pandas
-- numpy: Used for numerical operations and handling array-like structures.
-- matplotlib: Specifically pyplot, used for generating static plots.
-- seaborn: Used for statistical data visualization.
-- scikit-learn (sklearn): The primary machine learning library used for:
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 - StandardScaler
 - MinMaxScaler.
 - KMeans
